@@ -1,6 +1,6 @@
 ## Hi! it's Shahd✨
 
-🧠 Exploring: Machine Learning & AI in Cybersecurity<br/>
+🧠 Exploring: Machine Learning & AI in Quatum Computing<br/>
 📚 Studying: Information Systems @ Faculty of Computers & AI<br/>
 🌍 Goal: Work abroad and pursue research in Computational Physics or AI<br/>
 
